@@ -1,0 +1,13 @@
+12
+add i
+add i
+add i
+find i
+add i
+find i
+find o
+add i
+add i
+find io
+find i
+search i

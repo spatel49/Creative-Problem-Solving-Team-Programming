@@ -1,0 +1,5 @@
+4
+add bat
+add batman
+find bat
+find bet

@@ -1,0 +1,10 @@
+9
+add interestinginput
+add notinteresting
+add interesting
+add notint
+search not
+search notint
+find interesting
+find interestinginput
+find i
